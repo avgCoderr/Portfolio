@@ -7,9 +7,6 @@ import {
   Typography,
   styled,
   Box,
-  Link,
-  Tooltip,
-  LinearProgress,
 } from "@mui/material";
 
 import JS from "../assets/JavaScript-logo.png";
@@ -23,6 +20,7 @@ import PY from "../assets/python-logo-only.png";
 const MainContainer = styled(Grid)(({ theme }) => ({
   marginTop: theme.spacing(1),
   marginBottom: theme.spacing(6),
+  textAlign: "center",
 }));
 
 const AvatarContainer = styled(Grid)(({ theme }) => ({
@@ -59,7 +57,7 @@ const GlassCard = styled(Card)(({ theme }) => ({
   backdropFilter: "blur(5px)",
   borderRadius: theme.shape.borderRadius,
   padding: theme.spacing(2),
-  margin: theme.spacing(2),
+  margin: theme.spacing(1),
   color: "#3a4f58",
 
   [theme.breakpoints.down("md")]: {
@@ -181,7 +179,12 @@ const Skills = () => {
   }, []);
 
   return (
-    <MainContainer container justifyContent="center" spacing={2}>
+    <MainContainer
+      container
+      justifyContent="center"
+      spacing={2}
+      style={{ opacity: isLoaded ? 1 : 0, transition: "opacity 1s ease" }}
+    >
       {skillsData.map((skill, index) => (
         <Grid item xs={12} sm={6} md={4} lg={3} key={index}>
           <GlassCard>
