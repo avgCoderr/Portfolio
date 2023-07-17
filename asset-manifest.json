@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ec5c8d7d.css",
+    "main.js": "/Portfolio/static/js/main.9d2e1f2d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.38f72393ca4b080c8650.jpg",
+    "static/media/Sql_data_base_with_logo.png": "/Portfolio/static/media/Sql_data_base_with_logo.9ca70149f436919f11d9.png",
+    "static/media/python-logo-only.png": "/Portfolio/static/media/python-logo-only.58806410ff827e2cf8b7.png",
+    "static/media/JavaScript-logo.png": "/Portfolio/static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
+    "static/media/java-vertical.svg": "/Portfolio/static/media/java-vertical.59ff7120213c009e8c7566ecd01c5f22.svg",
+    "static/media/ISO_C++_Logo.svg": "/Portfolio/static/media/ISO_C++_Logo.2441702dffa95ca3c92c20816e386640.svg",
+    "static/media/Typescript_logo_2020.svg": "/Portfolio/static/media/Typescript_logo_2020.9ad81d2e09b9cd2265cdb1e55d83a709.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/Solidity_logo.svg": "/Portfolio/static/media/Solidity_logo.5da26cf4a96c33abd2d8b74c51732723.svg",
+    "main.ec5c8d7d.css.map": "/Portfolio/static/css/main.ec5c8d7d.css.map",
+    "main.9d2e1f2d.js.map": "/Portfolio/static/js/main.9d2e1f2d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5c8d7d.css",
+    "static/js/main.9d2e1f2d.js"
+  ]
+}
