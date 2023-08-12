@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Link to the hosted [Portfolio](https://64b521bd7671b00d6bda7e18--singular-kitsune-9c7c7e.netlify.app/home).
+Link to the hosted [Portfolio](https://64b521bd7671b00d6bda7e18--singular-kitsune-9c7c7e.netlify.app).
 
 ## Available Scripts
 
