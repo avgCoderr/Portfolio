@@ -115,7 +115,7 @@ const Home = () => {
               Your friendly neighborhood avgCoderr!
             </Typography>
             <Typography variant="body2" mt={3} mb={4}>
-              An undergraduate student at BITS Pilani (India), persuing my
+              An undergraduate student at BITS Pilani (India), pursuing my
               degree in Computer Science (currently in my fourth year).
             </Typography>
 
@@ -158,7 +158,7 @@ const Home = () => {
               </Tooltip>
               <Tooltip title={"Resume"} arrow>
                 <LinkStyle
-                  href="https://drive.google.com/file/d/1nd3L_Sr14F88dT6pSQJ-6AlQAO2l_RL_/view?usp=sharing"
+                  href="https://drive.google.com/drive/folders/1SGfgEyzgnjHYNoADU3Qk9BZTuGFJ_0cI?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
